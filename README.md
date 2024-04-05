@@ -18,9 +18,6 @@ docker run --rm -p 8080:8080 petstore
 curl localhost:8080/pets
 ```
 
-If you want to use the OpenAPI definition with your local server, be sure to update the `static/openapi.yaml`
-file before you build and run your Docker container.
-
 ## GPTScript example
 
 ```

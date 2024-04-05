@@ -5,8 +5,6 @@ info:
   title: Swagger Petstore
   license:
     name: MIT
-servers:
-  - url: https://petstore-p7er.onrender.com
 paths:
   /pets:
     get:
