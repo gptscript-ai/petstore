@@ -4,7 +4,7 @@ This is an implementation of the [Petstore API](https://github.com/OAI/OpenAPI-S
 
 One difference is that this does not support the creation of new pets.
 
-This API is currently being served at https://petstore-p7er.onrender.com.
+This API is currently being served at https://petstore.gptscript-demos.ai.
 
 ## Running the server
 
@@ -21,7 +21,7 @@ curl localhost:8080/pets
 ## GPTScript example
 
 ```
-Tools: https://petstore-p7er.onrender.com/openapi
+Tools: https://petstore.gptscript-demos.ai/openapi
 
 List all the pets. What are the names of the dogs?
 ```
